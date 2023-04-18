@@ -8,7 +8,8 @@
 
 ## Fine-tuning
 
-거대 언어 모델 경량화 기법 중 하나인 [Low-Rank Adaptation (LoRA)](https://arxiv.org/pdf/2106.09685.pdf)를 사용하여 학습.
+거대 언어 모델 경량화 기법 중 하나인 [Low-Rank Adaptation (LoRA)](https://arxiv.org/pdf/2106.09685.pdf)를 Base Model에 적용하여 학습.
+
 
 허깅페이스의 [Parameter-Efficient Fine-Tuning (PEFT)](https://github.com/huggingface/peft) 라이브러리를 활용.
 
