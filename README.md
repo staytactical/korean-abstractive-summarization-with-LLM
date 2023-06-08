@@ -2,7 +2,7 @@
 <img width="618" alt="3위" src="https://user-images.githubusercontent.com/76998855/233287208-6e06b73d-5b9f-46fd-96cf-850ddb63b1f6.PNG">
 
 
-2023년 AI CONNECT에서 개최한 [노트북으로 GPT 맛보기 경진대회](https://aiconnect.kr/competition/detail/223/task/272/taskInfo) 3위 학습 및 추론 코드.
+2023년 AI CONNECT에서 개최한 [노트북으로 GPT 맛보기 경진대회]([https://aiconnect.kr/competition/detail/223/task/272/taskInfo](https://aiconnect.kr/competition/detail/223/task/272/community/detail/113)) 3위 학습 및 추론 코드.
 
 ## Model
 
